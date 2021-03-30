@@ -1,4 +1,4 @@
-# [Flashcards](link)
+# [Flashcards](https://6063b316ee15ca009b1c20e6--thirsty-albattani-e3c2a3.netlify.app/)
 
 Is a simple project built with react and redux, currently does not have backend and the therefore is not persistent.
 It's a good piece of web app for learning purposes, It allows you to add a topic and add quizzes plus cards for that topic.
@@ -14,7 +14,7 @@ Clone the repository to your local machine via:
 
 3. `npm start`
 
-Feel free to customize for your use cases
+Feel free to customize it for your use cases
 
 ### `npm test`
 
